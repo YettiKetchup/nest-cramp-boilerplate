@@ -1,4 +1,4 @@
-# Cramp Nest Integration
+# Cramp Nest
 
 ![alt text](https://i.ibb.co/VSNWZmY/cnest-boilerplate-intro.jpg)
 
