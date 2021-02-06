@@ -1,5 +1,5 @@
 import { ComponentFilter } from "src/libs/cramp-nest-integration/cramp/type-definitions/types";
-import { CrampSystem } from "src/libs/cramp-nest-integration/types/bindings.types";
+import { CrampSystem } from "../../bindings";
 import { ICrampNestEntity } from "src/libs/cramp-nest-integration/types/integration.interfaces";
 import HelloCrampComponent from "../components/hello-cramp.component";
 

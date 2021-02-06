@@ -1,4 +1,4 @@
-import { CrampCachedComponent } from "src/libs/cramp-nest-integration/types/bindings.types";
+import { CrampCachedComponent } from "../../bindings";
 
 
 

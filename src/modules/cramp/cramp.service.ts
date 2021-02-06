@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 import GlobalEntitiesStorage from 'src/libs/cramp-nest-integration/cramp/storage/global-entities.storage';
 import { ICrampModule, IEntity, IEntityStorage } from 'src/libs/cramp-nest-integration/cramp/type-definitions/interfaces';
 import { Storages } from './enums/storages.enum';
-import { CrampEntity } from 'src/libs/cramp-nest-integration/types/bindings.types';
+import { CrampEntity } from './modules/bindings';
 import HelloCrampEntity from './modules/hello-cramp-module/entities/hello-cramp.entity';
 import HelloCrampModule from './modules/hello-cramp-module/hello-cramp.module';
 

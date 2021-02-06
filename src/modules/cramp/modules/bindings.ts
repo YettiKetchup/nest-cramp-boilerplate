@@ -1,8 +1,8 @@
-import { IEntityFactory } from "../cramp/type-definitions/interfaces";
-import CachedCrampNestComponent from "../integration/component/cached-cramp-nest.component";
-import CrampNestComponent from "../integration/component/cramp-nest.component";
-import CrampNestEntity from "../integration/entity/cramp-nest.entity";
-import CrampNestSystem from "../integration/system/cramp-nest.system";
+import { IEntityFactory } from "../../../libs/cramp-nest-integration/cramp/type-definitions/interfaces";
+import CachedCrampNestComponent from "../../../libs/cramp-nest-integration/integration/component/cached-cramp-nest.component";
+import CrampNestComponent from "../../../libs/cramp-nest-integration/integration/component/cramp-nest.component";
+import CrampNestEntity from "../../../libs/cramp-nest-integration/integration/entity/cramp-nest.entity";
+import CrampNestSystem from "../../../libs/cramp-nest-integration/integration/system/cramp-nest.system";
 
 
 

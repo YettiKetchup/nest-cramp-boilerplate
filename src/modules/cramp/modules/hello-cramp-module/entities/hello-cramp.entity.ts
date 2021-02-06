@@ -1,4 +1,4 @@
-import { CrampEntity, CrampEntityFactory } from "src/libs/cramp-nest-integration/types/bindings.types";
+import { CrampEntity, CrampEntityFactory } from "../../bindings";
 import HelloCrampComponent from "../components/hello-cramp.component";
 
 
