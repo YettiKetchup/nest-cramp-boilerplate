@@ -1,3 +1,0 @@
-[submodule "src/libs/nest-cocos-integration/cramp"]
-	path = src/libs/nest-cocos-integration/cramp
-	url = https://github.com/YettiKetchup/cramp
